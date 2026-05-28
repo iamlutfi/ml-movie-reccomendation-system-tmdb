@@ -1,7 +1,7 @@
 [project]
-name = "ml-tmbd-reccomendedmovie"
+name = "ml-movie-reccomendation-system-tmdb"
 version = "0.1.0"
-description = "Add your description here"
+description = "Movie Recommendation System using TMDB dataset"
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
